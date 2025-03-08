@@ -114,10 +114,10 @@ FastAPI provides **interactive API docs** at:
 Feel free to contribute! Fork the repo, create a branch, and submit a pull request. 🚀
 
 ## License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache License**.
 
 ## Author
-Developed by **[Your Name]** 👨‍💻
+Developed by **Kotni Kanaka Raju** 👨‍💻
 
 ---
 
